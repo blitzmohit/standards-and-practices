@@ -209,6 +209,7 @@ Format:
 | Mike Jiang | [Tinkz](https://github.com/Tinkz) ||
 | Mitch L | [SilentFox](https://github.com/SilentFox) |Experience with Java, C++, C.  Learning Python.|
 | Mohammad El-Sabae | [melsabae](https://github.com/melsabae) | I am a CIS student. Getting comfortable with git, very happily typing in vim on crunchbang Linux. Want to move out of current line of work into development. Know a more c than anything, some python. Learned a little C# and VB in a community college. ||
+| Mohit Arora | [blitzmohit](https://github.com/blitzmohit) ||
 | Nainesh Patel | [nain33](https://github.com/nain33) | 3rd year Comp Sci student wih some experience in Java, C, Python and C#. |
 | Nancy Iskander | [C-xC-q](https://github.com/C-xC-q) ||
 | Naomi Colvin | [auerfeld] (https://github.com/auerfeld) | Some Python and a little less C. Want to learn more through collaboration. |
